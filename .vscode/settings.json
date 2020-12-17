@@ -1,0 +1,9 @@
+{
+    "files.exclude": {
+        "**/Console": true,
+        "**/Exceptions": true,
+        "**/lang": true,
+        "**/Providers": true,
+        "**/sass": true
+    }
+}
